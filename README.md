@@ -1,6 +1,4 @@
-Here's a polished and professional `README.md` for your **Fullstack Chat App**:
 
----
 
 ```markdown
 # 💬 Fullstack Chat App
