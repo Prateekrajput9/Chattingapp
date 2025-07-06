@@ -87,15 +87,15 @@ This will:
 
 ## ▶️ Run the App
 
-Start the backend (and serve the built frontend):
+Start the backend:
 
 ```bash
 npm start
 ```
 
-> 🟢 Your full app will run on: `http://localhost:5001`
 
----
+
+
 
 ### 🔄 For Development
 
