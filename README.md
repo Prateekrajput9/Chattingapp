@@ -1,10 +1,4 @@
-# ✨ Full Stack Realtime Chat App ✨
 
-![Demo App](/frontend/public/screenshot-for-readme.png)
-
-[Video Tutorial on Youtube](https://youtu.be/ntKkVrQqBYY)
-
-Highlights:
 
 - 🌟 Tech stack: MERN + Socket.io + TailwindCSS + Daisy UI
 - 🎃 Authentication && Authorization with JWT
@@ -15,7 +9,7 @@ Highlights:
 - ⭐ At the end Deployment like a pro for FREE!
 - ⏳ And much more!
 
-### Setup .env file
+### Setup .env file in backend folder 
 
 ```js
 MONGODB_URI=...
@@ -39,4 +33,7 @@ npm run build
 
 ```shell
 npm start
+
+to run frontend cd frontend and npm run dev
+
 ```
